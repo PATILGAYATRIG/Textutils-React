@@ -1,5 +1,4 @@
-I used Reactjs,html,css and javascript in it.You can check this website on internet by URL:https://textutils-reactapp-website.netlify.app
-
+I used Reactjs,html,css and javascript in it.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
